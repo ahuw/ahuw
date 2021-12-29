@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @ahuw
+- 👋 Hi, I’m Huw at @ahuw
 - 👀 I’m interested in using software
 - 🌱 I’m currently learning linux
 
